@@ -7,7 +7,7 @@ import Mealinfo from './Components/Mealinfo';
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     
